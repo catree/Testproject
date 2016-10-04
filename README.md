@@ -1,6 +1,6 @@
 #Testproject
 
-Error in this Git occurs at Line 215 with a EXC_BAD_ACCESS Code. Mentioned in these Questions on
+Error in this Git occurs at Line 211 with a EXC_BAD_ACCESS Code. Mentioned in these Questions on
 OpenCV: http://answers.opencv.org/question/103562/no-member-getmat/
 Stackoverflow: http://stackoverflow.com/questions/39850921/opencv-exc-bad-access-in-sift-copy
 
